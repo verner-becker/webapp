@@ -1,0 +1,6 @@
+total 16
+-rw-r--r-- 1 vernerb vernerb 319 jan  9 21:35 app.py
+-rw-r--r-- 1 vernerb vernerb 263 jan  9 21:18 Dockerfile
+-rw-r--r-- 1 vernerb vernerb   0 jan 10 20:35 files.txt
+-rw-r--r-- 1 vernerb vernerb   9 jan  9 20:04 README.md
+-rw-r--r-- 1 vernerb vernerb  12 jan  9 21:12 requirements.txt
